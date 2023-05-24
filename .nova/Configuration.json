@@ -1,0 +1,13 @@
+{
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "json",
+    "css",
+    "markdown"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/kimtaek\/Desktop\/One Dark Mode.novaextension\/extension.json",
+    "\/Users\/kimtaek\/Library\/Mobile Documents\/com~apple~CloudDocs\/.Trash\/One Dark Mode.css",
+    "\/Users\/kimtaek\/Desktop\/One Dark Mode.novaextension\/Themes\/One Dark Mode.css",
+    "\/Users\/kimtaek\/Desktop\/One Dark Mode.novaextension\/README.md"
+  ]
+}

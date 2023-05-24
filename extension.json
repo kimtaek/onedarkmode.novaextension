@@ -1,0 +1,13 @@
+{
+    "identifier": "kimtaek.theme.onedarkmode",
+    "name": "One Dark Mode",
+    "organization": "kimtaek",
+    "description": "One Dark Mode",
+    "version": "1.0",
+    "categories": ["themes"],
+    "homepage": "",
+    "repository": "",
+    "bugs": "https://github.com/kimtaek/onedarkmode.novaextension/issues",
+    "funding": "",
+    "license": "MIT"
+}
